@@ -1,0 +1,5 @@
+Alice;25;Aventureira e amante de filmes de ficção científica.;Feminino;Heterossexual;Sim;Não;Sim;Sim;Não;Sim;Não;Sim;Sim;Não
+Bob;30;Chef de cozinha que adora explorar novas receitas.;Masculino;Heterossexual;Não;Sim;Não;Sim;Sim;Não;Sim;Não;Sim;Sim
+Carol;22;Apaixonada por música e fotografia.;Feminino;Bissexual;Sim;Sim;Não;Não;Sim;Sim;Não;Sim;Não;Sim
+David;28;Viajante e esportista, sempre buscando novas aventuras.;Masculino;Heterossexual;Sim;Não;Sim;Não;Sim;Sim;Não;Sim;Não;Sim
+Eve;27;Cinéfila que ama música clássica.;Feminino;Homossexual;Não;Sim;Sim;Sim;Não;Não;Sim;Não;Sim;Não
